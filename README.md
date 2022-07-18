@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-![email1 Bage](https://img.shields.io/badge/xhhe.psy@gmail.com-Red?style=for-the-badge)
+[![email badge](https://img.shields.io/badge/Contact%20Me%20xhhe.psy@gmail.com-%2310b981?style=for-the-badge)](https://visitor-badges.glitch.me/maker.html)
 ---
 <!--
 **XianhuiHe/XianhuiHe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
