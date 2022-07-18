@@ -14,6 +14,6 @@
 - :thinking::brain: Currently with sEEG recordings and behavioral experiments, I have been examining whether the hippocampal-cortical interactions support 1) WM load, 2) WM context-binding, and 3) the transformation of representationfrom WM encoding to WM maintenance to Long-term Memory retrieval. 
 - :scream::zap: Also, I participate in a project concerning how to improve visual working memory by tES. Our work is presented in [**CNS 2022**](https://www.cogneurosociety.org/poster-session-schedule/).
 
-- :monocle_face::golfing: I am now a **NMA** interactive student to build up skills in computational neuroscience. [**Our group project**](https://github.com/Xianhui-He/Raclette-Group-2-ECoG-Motor-Imagery) is about whether sensorimotor cortex represents motion types similarly in actual movement and imagery.
+- :monocle_face::golfing: I am now a **NMA** interactive student to build up skills in computational neuroscience. [**Our group project**](https://github.com/Xianhui-He/Raclette-Group-2-ECoG-Motor-Imagery) asks whether sensorimotor cortex represents motion types similarly in actual movement and imagery.
 
 - :film_strip::volleyball: In my spare time, I enjoying watching movies (my favorite director is Ryusuke Hamaguchi) and playing volleballs.
