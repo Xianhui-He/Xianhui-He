@@ -16,4 +16,4 @@
 
 - :monocle_face::golfing: I am now a **NMA** interactive student to build up skills in computational neuroscience. [**Our group project**](https://github.com/Xianhui-He/Raclette-Group-2-ECoG-Motor-Imagery) asks whether sensorimotor cortex represents motion types similarly in actual movement and imagery.
 
-- :film_strip::volleyball: In my spare time, I enjoying watching movies (my favorite director is Ryusuke Hamaguchi) and playing volleballs.
+- :film_strip::volleyball: In my spare time, I enjoy watching movies (my favorite director is Ryusuke Hamaguchi) and playing volleballs.
