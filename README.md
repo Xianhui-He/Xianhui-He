@@ -16,4 +16,4 @@
 
 - :monocle_face::surfer: I was an [**NMA2022**](https://academy.neuromatch.io/about) interactive student to build up skills in computational neuroscience. [**Our group project**](https://raclette-project.netlify.app) asks whether sensorimotor cortex represents motion types similarly in actual movement and imagery.
 
-- :film_strip::volleyball: In my spare time, I enjoy watching movies (my favorite director is Ryusuke Hamaguchi) and playing volleballs.
+- :film_strip::volleyball: In my spare time, I enjoy watching movies (my favorite director is Ryusuke Hamaguchi) and playing volleyballs.
